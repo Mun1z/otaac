@@ -1,0 +1,6 @@
+{
+  "name": "Otaac",
+  "tagline": "An AAC for Open Tibia Servers, made with 100% in CakePHP",
+  "body": "# OT AAC #\r\n\r\nAn AAC for Open Tibia Servers, made with 100% in CakePHP. Brings easier for administrators and players.\r\n\r\n**Version in Alpha**\r\n\r\n#### What's here? ####\r\n\r\n* [Source of OTAAC project](https://github.com/celopeccin/otaac)\r\n* [To-Do](https://github.com/celopeccin/otaac/wiki/To-Do)\r\n* [Installation guide](https://github.com/celopeccin/otaac/wiki/Installation-guide)\r\n* [Tutorials](http://www.xtibia.com/forum/forum/1046-otaac/)\r\n* [And anything related to the same](https://github.com/celopeccin/otaac/wiki)\r\n\r\n#### Contribution guidelines ####\r\n\r\n* Writing tests\r\n* Code review\r\n* Report Issues\r\n\r\n#### Who will help the project? ####\r\n\r\n* [Contributors](https://github.com/celopeccin/otaac/graphs/contributors)\r\n\r\n#### Licensing ####\r\n\r\nOTAAC is made available under the MIT License, thus this means that you are free to do whatever you want, commercial, non-commercial, closed or open.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
